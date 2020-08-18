@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TIC-TAC-TOE</string>
+    <string name="heading">Welcome to Tic-Tac-Toe</string>
+    <string name="main_grid">Main Grid</string>
+    <string name="turn_1" tools:ignore="StringEscaping">LET\'S PLAY!!!!!</string>
+    <string name="player1" tools:ignore="StringEscaping">1st Player\'s Name</string>
+    <string name="player2">2nd Player\'s Name</string>
+    <string name="singleplayer">Single Player</string>
+    <string name="multiplayer">Multi Player</string>
+    <string name="goback">Go Back</string>
+</resources>
